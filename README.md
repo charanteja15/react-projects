@@ -1,2 +1,2 @@
 # react-projects
-Working repo for my hands-on react project
+Working repo for my hands-on react projects
